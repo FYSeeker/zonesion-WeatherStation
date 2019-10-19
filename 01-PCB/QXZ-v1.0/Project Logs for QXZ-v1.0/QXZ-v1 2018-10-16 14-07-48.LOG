@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=J1 Old Footprint=JTAG-10 New Footprint=JTAG-10
+Change Physical Footprint: Designator=L1 Old Footprint=led0805 New Footprint=led0805
+Change Physical Footprint: Designator=L2 Old Footprint=led0805 New Footprint=led0805
+Change Physical Footprint: Designator=L3 Old Footprint=led0805 New Footprint=led0805
+Change Physical Footprint: Designator=U1 Old Footprint=ZA2530A New Footprint=ZA2530A

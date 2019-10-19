@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: QXZ-v1.0.GBR   2018/10/18  9:37:57
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTS                Top Solder                              
+.GTP                Top Paste                               
+.GPT                Top Pad Master                          
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GPB                Bottom Pad Master                       
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM6                Mechanical 6                            
+.GM10               Mechanical 10                           
+.GM13               Mechanical 13                           
+.GM1                Mechanical 1                            
+.GM9                Mechanical 9                            
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------
